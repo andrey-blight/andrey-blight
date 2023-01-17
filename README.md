@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrey-blight&show_icons=true&count_private=true&theme=codeSTACKr)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrey-blight&layout=compact&count_private=true&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 
-![Snake animation](https://github.com/andrey-blight/andrey-blight/blob/output/github-contribution-grid-snake.svg)
+![snake_animation](https://raw.githubusercontent.com/andrey-blight/andrey-blight/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![snake_animation_row](https://raw.githubusercontent.com/andrery-blight/andrey-blight/output/github-contribution-grid-snake.svg#gh-light-mode-only)
